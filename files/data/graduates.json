@@ -1,0 +1,870 @@
+[
+  {
+    "initials": "ВЛ",
+    "name": "Владимир",
+    "city": "Москва",
+    "photo": "",
+    "review": "Благодарю Вас за внимание! Какие-то непонятки или вопросы по курсу отсутствуют, во всяком случае, пока.:). Учебная программа великолепно выстроена по последовательно логической схеме."
+  },
+  {
+    "initials": "ИН",
+    "name": "Инна",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-101.jpg",
+    "review": "Большое спасибо, завораживающе интересно сейчас, на практике, видеть ожившие картинки из обучения на настоящей дороге) У вас замечательная программа."
+  },
+  {
+    "initials": "СЕ",
+    "name": "Сергей",
+    "city": "Иркутск",
+    "photo": "/img/graduates/uch-12.jpg",
+    "review": "Огромное спасибо за программу и лекции! Все просто и понятно, очень вам признателен за помощь. Жаль расставаться."
+  },
+  {
+    "initials": "ДА",
+    "name": "Дарья",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-91.jpg",
+    "review": "Очень удобный интерфейс. Экономит время) Спасибо за подробные разборы, с ними намного легче усваивать материал."
+  },
+  {
+    "initials": "ИР",
+    "name": "Ирина",
+    "city": "Санкт-Петербург",
+    "photo": "",
+    "review": "Спасибо огромное за поддержку! Материал составлен очень хорошо, буду ваши курсы всем советовать:)"
+  },
+  {
+    "initials": "ОЛ",
+    "name": "Ольга",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-71.jpg",
+    "review": "Спасибо огромное! Лекции очень легко было читать! Все написано понятным языком и хорошо запоминается с первого раза!"
+  },
+  {
+    "initials": "ВА",
+    "name": "Валентина",
+    "city": "Дзержинск",
+    "photo": "",
+    "review": "Спасибо, вам большое, за интересные и глубокие знания, которые я получила при изучение ваших лекций. Весь день 8 марта я просидела за лекциями, последний этап дался с трудом, но осилила. Я очень вам благодарна за ваши труды и акции."
+  },
+  {
+    "initials": "СВ",
+    "name": "Светлана",
+    "city": "Москва",
+    "photo": "",
+    "review": "У меня вчера был экзамен. Я всё успешно сдала. Спасибо."
+  },
+  {
+    "initials": "ИВ",
+    "name": "Иван",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-42.jpg",
+    "review": "Хочу поблагодарить за качественную теоретическую базу! Сегодня сдал теорию, дром и город) Скоро за правами)"
+  },
+  {
+    "initials": "НИ",
+    "name": "Никита",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-102.jpg",
+    "review": "Хочу поблагодарить за столь грамотно построенное обучение, мне даже жаль что оно подошло к концу Уроки преподаются логично, просто и понятно. Текст уроков вовлекает, и насыщен примерами из жизни. Ну и конечно полезные советы действительно полезные! Благодарю за обучение!"
+  },
+  {
+    "initials": "ТА",
+    "name": "Татьяна",
+    "city": "Ростов-на-Дону",
+    "photo": "/img/graduates/uch-100.jpg",
+    "review": "Спасибо за Вашу помощь в процессе обучения. Лекции очень понятные и материал легко запоминается. Буду рекомендовать Вас своим знакомым. Успехов Вам!"
+  },
+  {
+    "initials": "ОК",
+    "name": "Оксана",
+    "city": "г. Чехов Московской обл.",
+    "photo": "/img/graduates/uch-103.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕК",
+    "name": "Екатерина",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-104.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Альберт",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-105.jpg",
+    "review": ""
+  },
+  {
+    "initials": "МА",
+    "name": "Мария",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-106.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ДМ",
+    "name": "Дмитрий",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-107.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕЛ",
+    "name": "Елизавета",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-108.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ОЛ",
+    "name": "Ольга",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-109.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Александр",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-11.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ДМ",
+    "name": "Дмитрий",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-110.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЮЛ",
+    "name": "Юлия",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-111.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ДА",
+    "name": "Дарья",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-112.jpg",
+    "review": ""
+  },
+  {
+    "initials": "МА",
+    "name": "Макар",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-113.jpg",
+    "review": ""
+  },
+  {
+    "initials": "КС",
+    "name": "Ксения",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-114.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ДА",
+    "name": "Данил",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-115.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕЛ",
+    "name": "Елена",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-116.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ДА",
+    "name": "Дарья",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-117.jpg",
+    "review": ""
+  },
+  {
+    "initials": "МА",
+    "name": "Маргарита",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-118.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ИС",
+    "name": "Исматулло",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-119.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ИГ",
+    "name": "Игорь",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-120.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Алина",
+    "city": "Бронницы",
+    "photo": "/img/graduates/uch-121.jpg",
+    "review": ""
+  },
+  {
+    "initials": "СЕ",
+    "name": "Сергей",
+    "city": "Краснодар",
+    "photo": "/img/graduates/uch-13.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕЛ",
+    "name": "Елизавета",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-14.jpg",
+    "review": ""
+  },
+  {
+    "initials": "КС",
+    "name": "Ксения",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-15.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АН",
+    "name": "Анна",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-16.jpg",
+    "review": ""
+  },
+  {
+    "initials": "НА",
+    "name": "Наталья",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-17.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЗ",
+    "name": "Азамат",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-18.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВИ",
+    "name": "Виктория",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-19.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АМ",
+    "name": "Амалия",
+    "city": "Арзамас",
+    "photo": "/img/graduates/uch-20.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВЛ",
+    "name": "Владислав",
+    "city": "Обнинск",
+    "photo": "/img/graduates/uch-21.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АН",
+    "name": "Андрей",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-22.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ДА",
+    "name": "Дарья",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-23.jpg",
+    "review": ""
+  },
+  {
+    "initials": "СВ",
+    "name": "Светлана",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-24.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АН",
+    "name": "Анна",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-25.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЮЛ",
+    "name": "Юлия",
+    "city": "Арзамас",
+    "photo": "/img/graduates/uch-26.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ИЛ",
+    "name": "Илья",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-27.jpg",
+    "review": ""
+  },
+  {
+    "initials": "КС",
+    "name": "Ксения",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-28.jpg",
+    "review": ""
+  },
+  {
+    "initials": "СЕ",
+    "name": "Сергей",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-29.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВА",
+    "name": "Валерия",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-30.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Александра",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-31.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВА",
+    "name": "Валентина",
+    "city": "Арзамас",
+    "photo": "/img/graduates/uch-32.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЛИ",
+    "name": "Лилия",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-33.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕЛ",
+    "name": "Елена",
+    "city": "Арзамас",
+    "photo": "/img/graduates/uch-34.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ТА",
+    "name": "Татьяна",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-35.jpg",
+    "review": ""
+  },
+  {
+    "initials": "СЕ",
+    "name": "Семён",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-36.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕЛ",
+    "name": "Елизавета",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-37.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВА",
+    "name": "Валерия",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-38.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ОЛ",
+    "name": "Олег",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-39.jpg",
+    "review": ""
+  },
+  {
+    "initials": "НА",
+    "name": "Наталья",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-40.jpg",
+    "review": ""
+  },
+  {
+    "initials": "НА",
+    "name": "Наталья",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-41.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВА",
+    "name": "Валерия",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-43.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Алексей",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-44.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕК",
+    "name": "Екатерина",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-45.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕЛ",
+    "name": "Елена",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-46.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Алиса",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-47.jpg",
+    "review": ""
+  },
+  {
+    "initials": "МА",
+    "name": "Марина",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-48.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ТА",
+    "name": "Татьяна",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-49.jpg",
+    "review": ""
+  },
+  {
+    "initials": "РУ",
+    "name": "Рустам",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-50.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЯН",
+    "name": "Яна",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-51.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Алина",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-52.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АН",
+    "name": "Анастасия",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-53.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕГ",
+    "name": "Егор",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-54.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВЕ",
+    "name": "Вероника",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-55.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ДА",
+    "name": "Дана",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-56.jpg",
+    "review": ""
+  },
+  {
+    "initials": "НА",
+    "name": "Наталья",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-57.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ОЛ",
+    "name": "Олег",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-58.jpg",
+    "review": ""
+  },
+  {
+    "initials": "КР",
+    "name": "Кристина",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-59.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВИ",
+    "name": "Виолетта",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-60.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ИВ",
+    "name": "Иван",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-61.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВЛ",
+    "name": "Владимир",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-62.jpg",
+    "review": ""
+  },
+  {
+    "initials": "РО",
+    "name": "Роберт",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-63.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Александр",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-64.jpg",
+    "review": ""
+  },
+  {
+    "initials": "УЛ",
+    "name": "Ульяна",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-65.jpg",
+    "review": ""
+  },
+  {
+    "initials": "КИ",
+    "name": "Кирилл",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-67.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВИ",
+    "name": "Виктор",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-68.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ПА",
+    "name": "Павел",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-69.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АС",
+    "name": "Асадбек",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-70.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Александра",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-72.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Алиса",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-73.jpg",
+    "review": ""
+  },
+  {
+    "initials": "КС",
+    "name": "Ксения",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-74.jpg",
+    "review": ""
+  },
+  {
+    "initials": "СЕ",
+    "name": "Сергей",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-75.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АН",
+    "name": "Анна",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-76.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Алехан",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-77.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕВ",
+    "name": "Евгений",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-78.jpg",
+    "review": ""
+  },
+  {
+    "initials": "МА",
+    "name": "Мария",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-79.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Александр",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-80.jpg",
+    "review": ""
+  },
+  {
+    "initials": "СЕ",
+    "name": "Сергей",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-81.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ИВ",
+    "name": "Иван",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-82.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВЛ",
+    "name": "Владимир",
+    "city": "п. Пластун",
+    "photo": "/img/graduates/uch-83.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ОЛ",
+    "name": "Олеся",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-84.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВА",
+    "name": "Валерий",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-85.jpg",
+    "review": ""
+  },
+  {
+    "initials": "МА",
+    "name": "Максим",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-86.jpg",
+    "review": ""
+  },
+  {
+    "initials": "КС",
+    "name": "Ксения",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-87.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ХА",
+    "name": "Хайдарали",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-88.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ОЛ",
+    "name": "Ольга",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-89.jpg",
+    "review": ""
+  },
+  {
+    "initials": "МА",
+    "name": "Мария",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-90.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ТА",
+    "name": "Таисия",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-92.jpg",
+    "review": ""
+  },
+  {
+    "initials": "СЕ",
+    "name": "Сергей",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-93.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АН",
+    "name": "Анастасия",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-94.jpg",
+    "review": ""
+  },
+  {
+    "initials": "КР",
+    "name": "Кристина",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-95.jpg",
+    "review": ""
+  },
+  {
+    "initials": "СЕ",
+    "name": "Сергей",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-96.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АД",
+    "name": "Адам",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-97.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕВ",
+    "name": "Евгения",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-98.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ГА",
+    "name": "Галя",
+    "city": "Владивосток",
+    "photo": "/img/graduates/uch-99.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ОЛ",
+    "name": "Ольга",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-01.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВЕ",
+    "name": "Вера",
+    "city": "Арзамас",
+    "photo": "/img/graduates/uch-02.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЕК",
+    "name": "Екатерина",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-03.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЮЛ",
+    "name": "Юлия",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-04.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Александра",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-05.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ТА",
+    "name": "Татьяна",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-06.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ЛЮ",
+    "name": "Любовь",
+    "city": "Арзамас",
+    "photo": "/img/graduates/uch-07.jpg",
+    "review": ""
+  },
+  {
+    "initials": "АЛ",
+    "name": "Алексей",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-08.jpg",
+    "review": ""
+  },
+  {
+    "initials": "ВЛ",
+    "name": "Владислав",
+    "city": "Пушкино",
+    "photo": "/img/graduates/uch-09.jpg",
+    "review": ""
+  },
+  {
+    "initials": "МА",
+    "name": "Максим",
+    "city": "Москва",
+    "photo": "/img/graduates/uch-10.jpg",
+    "review": ""
+  }
+]

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ru">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Спасибо за&#160;заявку!</title>
+		<link rel="stylesheet" href="./files/css/font-awesome.min.css" />
+		<link rel="stylesheet" href="./css/main.css" />
+	</head>
+
+	<body class="body" data-js-body-lock="false">
+		<div class="wrapper">
+			<main class="main">
+				<section class="thank-you-overlay" data-js-thank>
+					<div class="thank-you">
+						<!-- Кнопка закрытия (крестик) -->
+						<button class="thank-you__close" data-js-close aria-label="Закрыть" title="Закрыть">&#215;</button>
+
+						<!-- Иконка успеха -->
+						<div class="thank-you__icon">✓</div>
+
+						<!-- Заголовок с именем пользователя -->
+						<h1 class="thank-you__title"><span id="userName">Гость</span>, спасибо за&#160;вашу заявку!</h1>
+
+						<!-- Текст -->
+						<p class="thank-you__text">
+							Мы&#160;получили ваше сообщение и&#160;свяжемся с&#160;вами в&#160;ближайшее время.
+						</p>
+
+						<!-- Кнопка возврата -->
+
+						<div class="thank-you__btn btn-actions btn-actions--center btn-actions--460">
+							<a href="/" class="ui-btn  ui-btn--dark">На&#160;главную</a>
+							<button data-js-close class="ui-btn ui-btn--blue">Закрыть</button>
+						</div>
+					</div>
+				</section>
+			</main>
+		</div>
+
+		<!-- Сторонние библиотеки (если используете маски, слайдеры и т.д.) -->
+		<script src="./js/imask.js" defer></script>
+
+		<!-- Изолированные модули интерфейса (только объявляют функции/классы) -->
+		<script src="./js/modules/header-menu.js" defer></script>
+		<script src="./js/modules/faq-module.js" defer></script>
+		<script src="./js/modules/seo-module.js" defer></script>
+		<script src="./js/modules/graduates-reviews.js" defer></script>
+
+		<!-- Модальные окна и валидация форм -->
+		<!-- <script src="./js/modals.js" defer></script> -->
+		<script src="./js/modules/avtoself-modal-forms.js" defer></script>
+		<!-- Скрипты Swiper -->
+		<!-- <script src="./js/swiper-bundle.min.js" defer></script> -->
+
+		<!-- Модуль для слайдеров -->
+		<!-- <script src="./js/modules/sliders-module.js" defer></script> -->
+
+		<!-- Главный диспетчер запуска (стартует всё после готовности модулей) -->
+		<script src="./js/init-all.js" defer></script>
+
+		<script>
+			if (document.querySelector("[data-js-thank]")) {
+				// Получаем имя из URL
+				const urlParams = new URLSearchParams(window.location.search);
+				const userName = urlParams.get("name") || "Гость";
+
+				// Вставляем имя в заголовок
+				document.getElementById("userName").textContent = userName;
+
+				// Обработка клика по крестику
+				const closeBtns = document.querySelectorAll("[data-js-close]");
+
+				closeBtns.forEach(closeBtn => {
+					closeBtn.addEventListener("click", () => {
+						window.history.back();
+					});
+				});
+
+				// Обработка клика по фону (опционально)
+				const overlay = document.querySelector(".thank-you-overlay");
+				overlay.addEventListener("click", event => {
+					if (event.target === overlay) {
+						window.history.back();
+					}
+				});
+
+				// Закрытие по клавише Escape
+				document.addEventListener("keydown", event => {
+					if (event.key === "Escape") {
+						window.history.back();
+					}
+				});
+			}
+		</script>
+	</body>
+</html>
